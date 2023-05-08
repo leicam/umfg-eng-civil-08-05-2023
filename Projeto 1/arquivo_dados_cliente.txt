@@ -5,3 +5,7 @@ urbano
 Acabamentos:
  - Porcelanato
  - Janelas de blindex
+---------------------------
+Hidraulica
+ - Amanco
+ - Banheiros com chuveiro a gas
