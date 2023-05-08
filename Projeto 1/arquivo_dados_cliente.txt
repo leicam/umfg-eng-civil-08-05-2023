@@ -1,3 +1,7 @@
 projeto 65mtrs
 residencial
 urbano
+---------------------------
+Acabamentos:
+ - Porcelanato
+ - Janelas de blindex
